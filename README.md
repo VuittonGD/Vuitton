@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/stars/Vuitton?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square" alt="failed to load resource">
 <img src="https://komarev.com/ghpvc/?username=Vuitton" alt="failed to load resource"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/Vuitton?color=4C1&logo=github&style=fflat-square"></a>
-<img src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat" alt="failed to load resource"/></a>
 </p>
 
 <!--typing-->
