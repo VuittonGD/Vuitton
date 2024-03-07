@@ -55,7 +55,7 @@
 <!--github readme streak stats-->
 <div align="center">
 	
-[![failed to load resource](https://github-readme-streak-stats-om3ga6400.vercel.app/?user=OM3GA6400&theme=github-dark-blue&hide_border=true)](https://github.com/OM3GA6400/github-readme-streak-stats)
+[![failed to load resource](https://github-readme-streak-stats-Vuitton.vercel.app/?user=Vuitton&theme=github-dark-blue&hide_border=true)](https://github.com/Vuitton/github-readme-streak-stats)
 	</div>
 
 <!--awards title-->
@@ -64,7 +64,7 @@
 <!--github profile trophy-->
 <div align="center">
 	
-[![failed to load resource](https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![failed to load resource](https://github-profile-trophy.vercel.app/?username=Vuitton&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
 
 <!--gitub stats title-->
@@ -72,8 +72,8 @@
 
 <!--github readme stats-->
   <br/>
-    <a href="https://github.com/OM3GA6400/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=OM3GA6400&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/></a>
-  <a href="https://github.com/OM3GA6400/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs/?username=OM3GA6400&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+    <a href="https://github.com/Vuitton/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-Vuitton.vercel.app/api?username=Vuitton&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="425px"/></a>
+  <a href="https://github.com/Vuitton/github-readme-stats"><img alt="failed to load resource" src="https://github-readme-stats-Vuitton.vercel.app/api/top-langs/?username=Vuitton&langs_count=10&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 
 <!--programming quote title-->
@@ -90,7 +90,7 @@
 ## 📈 Activity Graph
 
 <!--activity graph-->
-[![failed to load resource](https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![failed to load resource](https://github-readme-activity-graph.vercel.app/graph?username=Vuitton&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--bye-->
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
