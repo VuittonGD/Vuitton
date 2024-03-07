@@ -1,12 +1,12 @@
 <!--introduction-->
 <h1 align="center">
-  Hi, I'm OMEGA
+  Hi, I'm Vuitton
 
 <!--wave gif-->
 <img src="assets/img/wave.gif" width="28">
 	
 <!--tagline-->
-<h3 align="center">Cool 8th grader</h3>
+<h3 align="center">Louis Vuitton Addiction</h3>
 
 <!--badges-->
 <p align="center">
