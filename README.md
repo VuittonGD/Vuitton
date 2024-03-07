@@ -10,7 +10,7 @@
 
 <!--badges-->
 <p align="center">
-<img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square" alt="failed to load resource">
+<img src="https://img.shields.io/github/stars/Vuitton?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square" alt="failed to load resource">
 <img src="https://komarev.com/ghpvc/?username=Vuitton" alt="failed to load resource"/>
 <img src="https://img.shields.io/github/commit-activity/m/Vuitton/Vuitton" alt="failed to load resource" />
 <img alt="Followers" src="https://img.shields.io/github/followers/Vuitton?color=4C1&logo=github&style=fflat-square"></a>
@@ -27,24 +27,22 @@
 	
 - 🌱 I’m currently learning **Lua**
 	
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@OM3ga6400)
+- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@VuittonGD/featured)
 	
-- 🤝 I’m looking for help with [My Github Readme](https://github.com/OM3GD6400/OM3GA6400)
+- 🤝 I’m looking for help with [My Youtube Subs](https://www.youtube.com/@VuittonGD/featured)
 	
-- 👨‍💻 All of my projects are available at [My Website](https://OM3GA6400.github.io)
+- 💬 Ask me about **things**
 	
-- 💬 Ask me about **Base64**
+- 📫 How to reach me **spadeeyt@gmail.com**
 	
-- 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
-	
-- ⚡ Fun fact **I can solve a Rubix cube**
+- ⚡ Fun fact **im a pc nerd**
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="failed to load resource" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@omega_gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OMEGA_GD" height="30" width="40" /></a>
-<a href="https://discord.gg/UDbRftyJF2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="failed to load resource" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VuittonGD/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VuittonGD" height="30" width="40" /></a>
+<a href="https://discord.gg/put gg here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="failed to load resource" height="30" width="40" /></a>
 </p>
 	
 <!--langs i use-->
